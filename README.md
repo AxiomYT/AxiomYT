@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-#### Still trying to test this - hold please.
 <!--
 **AxiomYT/AXiomYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![Axiom's Github Stats](https://github-readme-stats.vercel.app/api?username=AxiomYT&theme=cobalt&show_icons=true)
