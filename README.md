@@ -29,7 +29,7 @@
 
 ### Hardware  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" />  
+<img style="margin: 10px" src="https://github.com/AxiomYT/AxiomYT/blob/master/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72617370626572727970692e706e67.png" alt="Raspberry Pi" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" />  
 </div>
 
