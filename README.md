@@ -12,6 +12,7 @@
 - 👨‍💻 I’m currently - working on fixing [my old convertor.](https://github.com/AxiomYT/Convertor)              
            Ignore the disgusting code from when I was 16 :/  
   
+- 😎 Proud of my work on my [NPF Rule Calculator](https://github.com/AxiomYT/NPF-Rule-Calculator-Python).  
 
 - 😓 I’m currently - procrastinating.  
   
