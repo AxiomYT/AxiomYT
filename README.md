@@ -3,12 +3,7 @@
 </div>  
   
 
-<div align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿🔧 Professional Cursed Scottish Mechanist. 🔧🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>  
-  
-
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Unstable-critical" align="center" height="" width="200" />
-</div>  
+<div align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿🔧 Professional Cursed Scottish Mechanist. 🔧🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>    
   
 
 <div align="center"></div>  
