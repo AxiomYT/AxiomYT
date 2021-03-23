@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/AxiomYT/AxiomYT/blob/master/banner.png" align="center" style="width: 100%" />
+</br>
 </div>  
-  
 
 <div align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿🔧 Professional Cursed Scottish Mechanist. 🔧🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>    
   
