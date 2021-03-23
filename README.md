@@ -15,17 +15,13 @@
   
 
 - 👨‍💻 I’m currently - working on fixing [my old convertor.](https://github.com/AxiomYT/Convertor)              
-     Ignore the disgusting code from when I was 16 :/  
+           Ignore the disgusting code from when I was 16 :/  
   
 
 - 😓 I’m currently - procrastinating.  
   
 
 - 📡 Sometimes doing amateur radio, catch me if you can @ [MM7OWO](https://twitter.com/mm7owo)  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
