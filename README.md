@@ -3,7 +3,7 @@
 </br>
 </div>  
 
-<div align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿🔧 Professional Cursed Scottish Mechanist. 🔧🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>    
+<div align="center">:scotland:🔧 Professional Cursed Scottish Mechanist. 🔧:scotland:</div>    
   
 
 <div align="center"></div>  
