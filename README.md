@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/AxiomYT/AxiomYT/blob/master/banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/AxiomYT/AxiomYT/blob/master/banner2.png" align="center" style="width: 100%" />
 </br>
 </div>  
 
