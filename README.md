@@ -7,15 +7,6 @@
   
 
 <div align="center"></div>  
-  
-
-- 👨‍💻 I’m currently - working on fixing [my old convertor.](https://github.com/AxiomYT/Convertor)              
-           Ignore the disgusting code from when I was 16 :/  
-  
-- 😎 Proud of my work on my [NPF Rule Calculator](https://github.com/AxiomYT/NPF-Rule-Calculator-Python).  
-
-- 😓 I’m currently - procrastinating.  
-  
 
 - 📡 Sometimes doing amateur radio, catch me if you can @ [MM7OWO](https://twitter.com/mm7owo)  
 
